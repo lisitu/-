@@ -1,2 +1,2 @@
-s = hello
-print('s')
+s = "hello"
+print(s)
